@@ -1,0 +1,21 @@
+.nav-link{
+    border-style:hidden;
+    display: inline;
+    margin-right: 20px;
+    background-color: aqua;
+}
+
+
+.MainVIT{
+    margin:50px 50px;
+    background-color: #bcacac;
+    width: 1200px;
+    height: 800px;
+    background-image: url('../app/vitimage.jpeg');
+    background-size: cover;
+    background-position:left;
+    margin-left: auto;
+    margin-right: auto;
+    background-position: top;
+
+}
